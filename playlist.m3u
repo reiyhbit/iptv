@@ -92,7 +92,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
 
 #EXTINF:-1 tvg-id="lotus-macau" tvg-logo="https://i.imgur.com/5G72qjx.png" group-title="Entertainment",Lotus Macau
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1
+#KODIPROP:inputstream.adaptive.license_key=9a7c2d1f4e8b4a6d8f301b5c9e7d2a44:ca88469cabc18aa33d1f2e46a6efb4f7
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/lotusmacau_prd/default/index.mpd
 
 #EXTINF:-1 tvg-id="tvup" tvg-logo="https://i.imgur.com/OHLO5Hz.png" group-title="Entertainment",tvUP
@@ -912,6 +912,7 @@ https://cdn02.gigared.com.ar/live/eds/Telehit_Plus/sa_live_dash/Telehit_Plus.mpd
 
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/cignal_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/sky_epg.xml"
+
 
 
 
