@@ -2,5 +2,7 @@
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oa9YIxSVw7FsVIWaObFiO0RkKv0.jpg" group-title="Movies", Pansamantala
 https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2026/0214/09/1771028198368800.mp4/manifest.m3u8?rp=o00
 
-#EXTINF:-1 tvg-logo="https://khflix.com/wp-content/uploads/2026/02/j6UHchwJBGNM7X8k54EU0oK33gR.jpg" group-title="Movies", Alapaap (2022)
-https://hls.khflix.top/Alapaap/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/x44TC1EEYDR7Qo6ZGECabsnzkdQ.jpg",Sagaran - Mov18plus - Full Vivamax Adult Movie
+https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2026/0207/00/1770390569432463.mp4/manifest.m3u8?rp=o00
+
