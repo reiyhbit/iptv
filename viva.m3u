@@ -1,18 +1,42 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oa9YIxSVw7FsVIWaObFiO0RkKv0.jpg" group-title="Movies", Pansamantala
-https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2026/0214/09/1771028198368800.mp4/manifest.m3u8?rp=o00
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/x44TC1EEYDR7Qo6ZGECabsnzkdQ.jpg",Sagaran - Mov18plus - Full Vivamax Adult Movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/x44TC1EEYDR7Qo6ZGECabsnzkdQ.jpg",Sagaran (2026)
 https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2026/0207/00/1770390569432463.mp4/manifest.m3u8?rp=o00
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gO76jmB6I7vV6w3lSH6F86mktC5.jpg",Foreplay - Mov18plus - Full Vivamax Adult Movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gO76jmB6I7vV6w3lSH6F86mktC5.jpg",Foreplay (2026)
 https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2026/0206/23/1770389835802692.mp4/manifest.m3u8?rp=o00
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmAqgjzX_2EmNP2QGcUPHFcMj84foHzq1DL1RtbJ0PqiSC6Dc2XX8m67WHMdMXjn1UlFXYhz3MxbrGgB1d3V_JWQxVBzT4rLOE9_9mTlRIGxggLQXWxUantcWNDXZ_LKMP98DSeVMxQY40ps69of5LC4Wf3pIT2Jgh27x37GEI4aUURpLf_u7kKhN4NAE/s1600/Sirena.jpg",Sirena - Mov18plus - Full Vivamax Adult Movie
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmAqgjzX_2EmNP2QGcUPHFcMj84foHzq1DL1RtbJ0PqiSC6Dc2XX8m67WHMdMXjn1UlFXYhz3MxbrGgB1d3V_JWQxVBzT4rLOE9_9mTlRIGxggLQXWxUantcWNDXZ_LKMP98DSeVMxQY40ps69of5LC4Wf3pIT2Jgh27x37GEI4aUURpLf_u7kKhN4NAE/s1600/Sirena.jpg",Sirena (2026)
 https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2026/0131/13/1769834910463593.mp4/manifest.m3u8?rp=o00
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4rL4XpHnngzElgdYDqaDtZnmtEH.jpg",Patikim ni Robb Guinto - Mov18plus - Full Vivamax Adult Movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4rL4XpHnngzElgdYDqaDtZnmtEH.jpg",Patikim ni Robb Guinto (2026)
 https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2026/0131/13/1769834663691618.mp4/manifest.m3u8?rp=o00
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/t7nlhiZNaGdXPmbsTM872VlZgXD.jpg",Bagong Tukso - Mov18plus - Full Vivamax Adult Movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/t7nlhiZNaGdXPmbsTM872VlZgXD.jpg",Bagong Tukso (2026)
 https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2026/0126/00/1769353229957853.mp4/manifest.m3u8?rp=o00
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2YZ24F49pRkNb45YWI6yckrTYE.jpg",Claim Me (2026)
+https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2026/0121/14/1768573339995794.mp4/manifest.m3u8?rp=o00
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kd11696ab32WhHUeq5ZkWi9k09Y.jpg",Sulutan (2026)
+https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2026/0118/05/1767805994517754.mp4/manifest.m3u8?rp=o00
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/s6uqdKGDnDml0RYXXza9unzJpVQ.jpg",The Secret of Maria Makinang (2026)
+https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2026/0118/05/1767805962533167.mp4/manifest.m3u8?rp=o00
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oa9YIxSVw7FsVIWaObFiO0RkKv0.jpg",Pansamantala (2026)
+https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2026/0111/16/1767040489304349.mp4/manifest.m3u8?rp=o00
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kGdFWr1bWqFmhi5F5SVCfK5p1Iz.jpg",Bugaw (2025)
+https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2025/1229/16/1764521452947468.mp4/manifest.m3u8?rp=o00
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sVkj5I1kY5c3zM9zGjfX2bY5c3z.jpg",Hubad na Puso (2025)
+https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2025/1222/16/1763696024485937.mp4/manifest.m3u8?rp=o00
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1n7O7YjK9LqXQK7XgXgXgXgXgXg.jpg",Selos (2025)
+https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2025/1215/16/1762953184648419.mp4/manifest.m3u8?rp=o00
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-b_5eBAogJf8/Xna1_iOWahI/AAAAAAAABMA/H8UvYeeNtOEpEBPTcKV92lkqtDTkrrWMACNcBGAsYHQ/s1600/Stepmom%2B2019.jpg",Stepmom - 새엄마들 (2019)
+https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2026/0206/22/1770389524012954.mp4/manifest.m3u8?rp=o00
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fRv6pR6-Wkk/XnbMDAYuweI/AAAAAAAABNo/5vboZBuf2K41cvHaPQeSjKciK5fI-unAwCNcBGAsYHQ/s1600/Big%2BBreasted%2BMom.jpg",Big Breasted Mom - 가슴 큰 엄마들 (2020)
+https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2026/0206/21/1770389240261605.mp4/manifest.m3u8?rp=o00
