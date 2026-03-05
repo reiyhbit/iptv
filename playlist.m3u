@@ -25,7 +25,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/kapatid_hd/default/index.m
 https://live20.bozztv.com/giatvplayout7/giatv-210631/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="blastmovie" tvg-name="Blast Movie" tvg-logo="https://i.imgur.com/3KXnFQK.png" group-title="Movie Action",Blast Movie
-https://live20.bozztv.com/giatvplayout7/giatv-210631/tracks-v1a1/mono.ts.m3u8
+https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
 
 #EXTINF:-1 tvg-id="US18000163F" tvg-chno="770" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Miramax.png" group-title="ᴴᴰ",Miramax Movies Channel 
 https://raw.githubusercontent.com/mystery75/m3u8/main/MIRAMAX.m3u8
@@ -1159,6 +1159,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/crime_invest/default/index
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ebfa6bf03fc4377ad0adee4cd12b298:d4676c3b23e818b5286ede30ffaa4c2d
 https://live-streaming.live.pldt.quickplay.com/plsdi5/buko.isml/.mpd
+
 
 
 
