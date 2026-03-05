@@ -21,7 +21,7 @@ https://gsattv.akamaized.net/live/media0/gma7/Fairplay/gma7.m3u8
 #KODIPROP:inputstream.adaptive.license_key=045d103180f64562b1db7c932741c3ba:c3380548b9075c767a6ae2006ef4bff8
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/kapatid_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="GIATV-210631" tvg-name="GIA TV 210631" tvg-logo="https://i.imgur.com/8QZQZQZ.png" group-title="Movie Action",GIA TV 210631 (Action)
+#EXTINF:-1 tvg-id="GIATV-210631" tvg-name="GIA TV 210631" tvg-logo="https://i.imgur.com/8QZQZQZ.png" group-title="Movie Action",Movie Action
 https://live20.bozztv.com/giatvplayout7/giatv-210631/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="US18000163F" tvg-chno="770" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Miramax.png" group-title="ᴴᴰ",Miramax Movies Channel 
@@ -1156,6 +1156,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/crime_invest/default/index
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ebfa6bf03fc4377ad0adee4cd12b298:d4676c3b23e818b5286ede30ffaa4c2d
 https://live-streaming.live.pldt.quickplay.com/plsdi5/buko.isml/.mpd
+
 
 
 
